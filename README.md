@@ -8,5 +8,5 @@
 -   \webscraper> cd .\altin_scraper\ scrapy crawl ebook
 -   scrapy crawl ebook -o ebooks.json
 
-
+-   git push --set-upstream origin master       
 
